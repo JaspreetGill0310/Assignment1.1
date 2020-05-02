@@ -1,3 +1,3 @@
-# Assignment1.1
+# Assignments
 Python in Depth
-This is Assignment 1 from Python In Depth Course from iNeuron
+These are the assignments covered under 'Python In Depth' course from iNeuron
